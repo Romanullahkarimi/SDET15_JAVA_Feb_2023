@@ -1,0 +1,39 @@
+operators:
+Operators are different symbols that we can use to perform operation line addition,subtraction
+we can compere thhings if two entities are same or not if a number is greater than the other or not .
+there are thee main types of operators. They are artihmetic,relational operators, and logical operators.
+
+Arithmetic operators:
+we use arithemtic operators to perform simple math operation . like  additions,subtraction
++ =>addition
+- =>subraction
+/ => devision
+* => mutiplication
+% => modulus,rminder
+
+relational operators:
+relational operators are used to compare or entities . for example if somthing id bigger than others of
+if two nambers are same or not  if same two boolean variables contian sanme values or not.
+== => used to check if two variables contian the same values or not if same we get true otherwie we get false.
+!= => used to check if two variales dont contain  the same values . we get a true if they are not same.
+> => used to check if one values is greater than other values or not  if greater we get  a true.
+ < => used to check if th values on the left is smaller than the values on right side we will get a true.
+ >= =>  if the values on left side  is greater than the value on right side or if they ARE GET A TRUE
+ <= => it opposite of => and its used to check if somethings less than or equal to others thing.
+
+
+ conditional constucts:
+ used to write conditional code . a piece of code that execte based on conditon .if condition is true that jave
+ execute the code oterwise it skips that code.
+ how to write ifsles conditions:
+ if (condition)
+ {
+ any line of code
+ }
+ if(){
+ any another if condition
+ }
+ 1:for string we use equal method instead of == sign becouas its a s non permitive data type
+ 2: we can cmd+opt+1(Mac) crtl +alt+L(windowas)to format our code
+ 3: if we are confused about brackets we can click on opening or closing parts to check other parts
+
